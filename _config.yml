@@ -12,7 +12,7 @@ title                    : "Hongyang Xie's Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mythy-xie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4973.jpg"
+  avatar           : "mygithubpage.png"
   name             : "Hongyang Xie"
   pronouns         : "he/him"  
   bio              : "A senior student at UCI, seeking PhD opportunities in AI-related fields"
