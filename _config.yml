@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Hongyang Xie's Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Hongyang Xie"
+description              : &description "A senior student at UCI, seeking PhD opportunities in AI-related fields"
 url                      : https://mythy-xie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -75,6 +75,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  submittedpapers:
+    title: 'Selected Submitted Papers'
   books:
     title: 'Books'
   manuscripts:
@@ -217,7 +219,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  education:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -263,10 +265,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _education
   - scope:
       path: ""
-      type: portfolio
+      type: education
     values:
       layout: single
       author_profile: true
