@@ -11,6 +11,8 @@ I am currently a senior student at the [Department of Electrical Engineering and
 
 **I am actively seeking PhD opportunities for Fall 2025 admission, with interests in AI-related fields. I welcome any recommendations or connections and look forward to contributing to a collaborative research environment.**
 
+Research Interests
+======
 My currently research interests are in the area of 
 - AI methods for science;
 - deep reinforcement learning and its application;
@@ -19,3 +21,9 @@ My currently research interests are in the area of
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - xiehyseu [at] foxmail.com 
 
 News and Updates
+======
+- **Sep 2024:** Started our 3+2 Engineering Program at UCI. See you in Irvine!
+- **Aug 2024:** Our work *HAMA* has been accepted to IEEE TVT as a Correspondence.
+- **Sep 2023:** Happy to finish my RA tasks at FIB. Special thanks to Prof.Li and Dr.Liu. Looking forward to more cooperation online.
+- **Aug 2023:** Happy to finalize my first undergraduate research program.
+- **Apr 2023:** Excited to be accepted as a summer RA at FIB. See you at Tsinghua University!
