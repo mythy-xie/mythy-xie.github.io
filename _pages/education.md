@@ -62,6 +62,3 @@ I am currently a senior student at the [University of California, Irvine](https:
   - 13th E-commerce "Innovation, Creativity, and Entrepreneurship" Challenge
     *Second Prize at the School Level*  
 
-
-
-  
