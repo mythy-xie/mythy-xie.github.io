@@ -25,9 +25,9 @@ I am currently a senior student at the [University of California, Irvine](https:
 | **UCI**  ENGLISH X401    | Scientific Writing      |  A+        | 
 | **UCI**  EECS 294    | Electrical Engineering and Computer Science Colloquium      |  course in progress     | 
 | **UCI**  EECS 215    | Design and Analysis of Algorithms      |  course in progress     | 
-| **UCI**  CompSci 199    |  Individual Study     |  course in progress     | 
+| **UCI**  STATS 199    |  Individual Study     |  course in progress     | 
 | **UCI**  EECS 159A    | Senior Design Project I      |  course in progress     | 
-| **UCI**  EECS 12    | Introduction to Programming      |  course in progress     | 
+| **UCI**  EECS 159B    | Senior Design Project II      |  course in progress     | 
 
 - Here are the selected courses I took at Southeast University.
 
