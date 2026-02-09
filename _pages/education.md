@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Ph.D or M.S. in ... (expected)
+M.S. in Networked Systems
 ======
 * Searching PhD opportunities for Fall 2025 admission in AI-related fields
   
