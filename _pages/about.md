@@ -31,4 +31,4 @@ News and Updates
 
 
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=kY1WFScwUDWmpm7FrzoeMg0CjPtqiiog7-VvyNvCwCc&cl=ffffff&w=a"></script>
+<div style="width: 150px;"> <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=kY1WFScwUDWmpm7FrzoeMg0CjPtqiiog7-VvyNvCwCc&cl=ffffff&w=a"></script>
